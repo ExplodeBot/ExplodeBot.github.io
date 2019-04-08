@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/ExplodeBot/ExplodeBot.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### JAVADOCS
+
+[no 1](javadocs/deployTest/index.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
